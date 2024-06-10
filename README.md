@@ -1,8 +1,13 @@
 ## 한국어
-- 학력:
-  백석대학교 첨단IT학부 AR/VR전공 재학중
-  백석대학교 혁신융합학부 글로벌IT전공 재학중
-- 블로그:https://BlackWerf1257.github.io
+### 학력:
+  백석대학교 첨단IT학부 AR/VR전공(2021.3 ~ 2025.2)
+  백석대학교 혁신융합학부 글로벌IT융합전공(2021.3 ~ 2025.2)
+### 블로그:https://BlackWerf1257.github.io
+### 스킬:
+- 언어: PHP, MySQL, MSSQL, C#, C++, Visual Basic, C, Python, Java
+- 엔진: Android Studio, Windows Form, Unity
+- 툴: Rider, Visual Studio, Visual Studio Code, Typora
+- 협업 도구: Live Share, Jira, Git(Hub, Lab)
   <br><br>
 ## 日本語
 - 学歴:
