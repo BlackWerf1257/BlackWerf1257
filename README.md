@@ -32,6 +32,12 @@ https://BlackWerf1257.github.io
 ### Blog
 https://BlackWerf1257.github.io
 
+### 스킬:
+- Language: PHP, MySQL, MSSQL, C#, C++, Visual Basic, C, Python, Java
+- Engine: Android Studio, Windows Form, Unity
+- Tool: Rider, Visual Studio, Visual Studio Code, Typora
+- Co-op Tool: Live Share, Jira, Git(Hub, Lab)
+
 <!---
 BlackWerf1257/BlackWerf1257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
