@@ -16,8 +16,8 @@
   
 <br><br>
 ## EN
-- Education:
-  Bachelor’s Degree in AR/VR, Baekseok University (2021-2025)
+- Education:<br>
+  Bachelor’s Degree in AR/VR, Baekseok University (2021-2025)<br>
   Bachelor’s Degree in Global IT Convergence, Baekseok University (2021-2025)
   
 - My Blog link is "Https://BlackWerf1257.github.io"
