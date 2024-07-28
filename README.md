@@ -9,14 +9,19 @@ https://BlackWerf1257.github.io
 - 엔진: Android Studio, Windows Form, Unity
 - 툴: Rider, Visual Studio, Visual Studio Code, Typora
 - 협업 도구: Live Share, Jira, Git(Hub, Lab)
+  
   <br><br>
 ## 日本語
 - 学歴: <br>
     韓国 白石大学の先端IT学部　AR/VR選考（2021.3 ~ 2025.2) <br>
     韓国 白石大学 革新融合学部 グ ロバ ール IT 融合専攻　(副専攻) (2023.3 ~ 2025.2)
-
-### Blog
+### ブログ
 https://BlackWerf1257.github.io
+### スキル
+- 言語: PHP, MySQL, MSSQL, C#, C++, Visual Basic, C, Python, Java
+- エンギンー: Android Studio, Windows Form, Unity
+- ツール: Rider, Visual Studio, Visual Studio Code, Typora
+- 協業ツール: Live Share, Jira, Git(Hub, Lab)
   
 <br><br>
 ## EN
