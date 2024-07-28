@@ -17,13 +17,9 @@
 <br><br>
 ## EN
 - Education:
-- 
-- 👋 Hi, I’m @BlackWerf1257
-- 👀 I’m interested in C++/C#, Unity Engine, Unreal Engine.
-- 🌱 I’m currently learning Unity's various libraries.
-- 💞️ I’m looking to collaborate on Unity Project.
-- 📫 How to reach me mklsjh44@gmail.com  /  mklsjh@naver.com
-
+  Bachelor’s Degree in AR/VR, Baekseok University (2021-2025)
+  Bachelor’s Degree in Global IT Convergence, Baekseok University (2021-2025)
+  
 - My Blog link is "Https://BlackWerf1257.github.io"
 
 <!---
