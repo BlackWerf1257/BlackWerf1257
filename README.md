@@ -1,7 +1,6 @@
 ## 한국어
 ### 학력:
   백석대학교 첨단IT학부 AR/VR전공(2021.3 ~ 2025.2)
-  백석대학교 혁신융합학부 글로벌IT융합전공(2023.3 ~ 2025.2)
 ### 블로그:
 https://BlackWerf1257.github.io
 ### 스킬:
@@ -14,7 +13,6 @@ https://BlackWerf1257.github.io
 ## 日本語
 - 学歴: <br>
     韓国 白石大学の先端IT学部　AR/VR選考（2021.3 ~ 2025.2) <br>
-    韓国 白石大学 革新融合学部 グ ロバ ール IT 融合専攻　(副専攻) (2023.3 ~ 2025.2)
 ### ブログ
 https://BlackWerf1257.github.io
 ### スキル
@@ -27,7 +25,6 @@ https://BlackWerf1257.github.io
 ## EN
 - Education:<br>
   Bachelor’s Degree in AR/VR, Baekseok University (2021-2025)<br>
-  Bachelor’s Degree in Global IT Convergence, Baekseok University (2021-2025)
   
 ### Blog
 https://BlackWerf1257.github.io
