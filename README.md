@@ -8,6 +8,12 @@ https://BlackWerf1257.github.io
 - 엔진: Android Studio, Windows Form, Unity
 - 툴: Rider, Visual Studio, Visual Studio Code, Typora
 - 협업 도구: Live Share, Jira, Git(Hub, Lab)
+
+### 프로젝트
+#### 게임
+- 2023 ~ 2024: 'Strayer'
+#### 프로그램
+- 2024.5 ~ 2024.6 : 안드로이드 앱 'Time-Calender'
   
   <br><br>
 ## 日本語
@@ -20,6 +26,12 @@ https://BlackWerf1257.github.io
 - エンギンー: Android Studio, Windows Form, Unity
 - ツール: Rider, Visual Studio, Visual Studio Code, Typora
 - 協業ツール: Live Share, Jira, Git(Hub, Lab)
+
+### プロゼクウト
+#### ゲーム
+- 2023 ~ 2024: 'Strayer'
+#### プログラム
+- 2024.5 ~ 2024.6 : アンドロイド　アプリ 'Time-Calender'
   
 <br><br>
 ## EN
@@ -29,11 +41,17 @@ https://BlackWerf1257.github.io
 ### Blog
 https://BlackWerf1257.github.io
 
-### 스킬:
+### Skill:
 - Language: PHP, MySQL, MSSQL, C#, C++, Visual Basic, C, Python, Java
 - Engine: Android Studio, Windows Form, Unity
 - Tool: Rider, Visual Studio, Visual Studio Code, Typora
 - Co-op Tool: Live Share, Jira, Git(Hub, Lab)
+
+### Project
+#### Game
+- 2023 ~ 2024: Game 'Strayer'
+#### Program
+- 2024.5 ~ 2024.6 : Android App 'Time-Calender'
 
 <!---
 BlackWerf1257/BlackWerf1257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
